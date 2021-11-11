@@ -13,4 +13,4 @@ if we click button the buzzer will power and white light will be on
 
 this is how it's sounds like yeee this is sooo annoying
 
-![](https://raw.githubusercontent.com/SolindekDev/arduino-buzzer-button/main/readme-resources/video.mp4)
+![](https://i.imgur.com/6y4z93t.mp4)
