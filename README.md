@@ -2,3 +2,7 @@
 A simple little project on arduino thats power buzzer on clicked button and change light. I'm new in Arduino!
 
 ### Under you see how it's work
+
+if we click button the buzzer will power and white light will be on
+
+<img src="https://raw.githubusercontent.com/SolindekDev/arduino-buzzer-button/main/readme-resources/clicked.jpg" style="width: 512px;">
